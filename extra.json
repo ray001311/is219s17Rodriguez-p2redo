@@ -1,0 +1,40 @@
+{
+    "images": [
+        {
+            "imgPath": "img/lot/s1.jpeg",
+            "imgLocation": “Great Plain”,
+            "description": “A Journey like no Other“,
+            "date": “1/22/2000”
+        },
+        {
+            "imgPath": "img/lot/s2.jpeg",
+            "imgLocation": “Mountain Range”,
+            "description": “A Snowy Miracle”,
+            "date": “12/21/2000”
+        },
+        {
+            "imgPath": "img/lot/s3.jpeg",
+            "imgLocation": “The Sun above”,
+            "description": “A Different Experience”,
+            "date": “11/20/2000”
+        },
+        {
+            "imgPath": "img/lot/s4.jpeg",
+            "imgLocation": “Forest Life”,
+            "description": "The Life of the Wild”,
+            "date": “10/19/2000”
+        },
+        {
+            "imgPath": "img/lot/s5.jpeg",
+            "imgLocation": “Welcoming Spring”,
+            "description": “Living on the sideline”,
+            "date": “9/18/2000”
+        },
+        {
+            "imgPath": "img/lot/s6.jpeg",
+            "imgLocation": “Leaves”,
+            "description": “A Parkside view“,
+            "date": “11/17/2000”
+        }
+  ]
+}
