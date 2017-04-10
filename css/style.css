@@ -20,7 +20,8 @@ body {
 
 .photoHolder {
 	position: relative;
-	width: 80%;
+	width: 520px;
+	height: 350px;
 	margin: 0 auto;
 }
 
@@ -55,8 +56,8 @@ body {
 	width: 42px;
 }
 #photo {
-	width: 518px;
-	height: 518px;
+	width: 520px;
+	height: 350px;
 }
 
 #prevPhoto:hover {
