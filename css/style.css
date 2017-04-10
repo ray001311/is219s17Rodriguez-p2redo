@@ -27,7 +27,7 @@ body {
 .moreIndicator {
 	height: 50px;
 	width: 50px;
-	position: absolute;
+	position: relative;
 	z-index: 3;
 	opacity: .8;
 	top: -60px;
@@ -53,6 +53,9 @@ body {
 #prevPhoto {
 	height: 42px;
 	width: 42px;
+}
+#photo {
+	width: 518px;
 }
 
 #prevPhoto:hover {
